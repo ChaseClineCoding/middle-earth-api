@@ -1,4 +1,4 @@
-package com.chaseclinecoding.middleearthapi;
+package com.chaseclinecoding.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
